@@ -26,6 +26,5 @@
 
 ### My statistics
 
-<p align="center">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RadostevaT&show_icons=true&rank_icon=github" /> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadostevaT&layout=compact" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RadostevaT&show_icons=true&rank_icon=github" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadostevaT&layout=compact" />
