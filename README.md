@@ -24,6 +24,10 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+### My achievements
+
+<img width="250" src="https://github.com/RadostevaT/RadostevaT/assets/93980203/f2c6b3d5-c45c-4060-8497-b2dfb8413c95" />
+
 ### My statistics
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RadostevaT&show_icons=true&rank_icon=github" /> 
